@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trysked
 - 👀 I’m interested in progamming
-- 🌱 I’m currently learning backend developer dan pentesting
+- 🌱 I’m currently learning backend developer and pentesting
 - 💞️ I’m looking to collaborate on work
 - 📫 How to reach me? t.me/trysked
 
